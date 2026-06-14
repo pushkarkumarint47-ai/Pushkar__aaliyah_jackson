@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, document, image, audio]
+l1: operations_qa
+l2: document_receipt_processing
+task_type: multimodal_reconciliation
+required_apis: [gmail, plaid]
+distractor_apis: [quickbooks, xero, paypal, square]

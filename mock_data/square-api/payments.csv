@@ -1,0 +1,4 @@
+id,order_id,customer_id,amount,currency,status,source_type,location_id,receipt_number,created_at
+sq-001,o-001,cust-1,5.75,USD,COMPLETED,CARD,loc-roost,R-1001,2026-10-09T10:14:00Z
+sq-002,o-002,cust-1,12.00,USD,COMPLETED,CARD,loc-market,R-1002,2026-10-04T09:02:00Z
+sq-003,o-003,cust-1,6.50,USD,COMPLETED,CARD,loc-roost,R-1003,2026-10-11T10:31:00Z

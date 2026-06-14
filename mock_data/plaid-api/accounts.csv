@@ -1,0 +1,4 @@
+account_id,name,official_name,mask,type,subtype,available,current,limit,iso_currency_code
+acc_chk_001,Everyday Checking,Regions Everyday Checking,6620,depository,checking,3742.18,3742.18,,USD
+acc_sav_001,Joint Savings,Regions Savings,2210,depository,savings,9815.42,9815.42,,USD
+acc_sav_002,Emergency Fund,Regions Money Market Savings,4471,depository,savings,8500.00,8500.00,,USD

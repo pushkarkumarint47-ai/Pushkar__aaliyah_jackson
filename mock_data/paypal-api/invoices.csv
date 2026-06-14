@@ -1,0 +1,4 @@
+id,invoice_number,status,recipient_email,amount_value,currency_code,due_date,note
+pp-9001,PP-9001,PAID,brianna.lewis.fs@gmail.com,14.50,USD,2026-10-06,coffee split
+pp-9002,PP-9002,SENT,shop@example.com,36.00,USD,2026-10-28,etsy gift
+pp-9003,PP-9003,PAID,give@firstbaptistmboro.org,60.00,USD,2026-10-05,fall festival donation

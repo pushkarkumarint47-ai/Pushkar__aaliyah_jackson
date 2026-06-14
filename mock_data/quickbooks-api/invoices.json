@@ -1,0 +1,40 @@
+[
+  {
+    "Id": "1031",
+    "DocNumber": "INV-2026-031",
+    "TxnDate": "2026-09-15",
+    "DueDate": "2026-10-15",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Dillard Family Dental"
+    },
+    "Line": [
+      {
+        "Amount": 740.0,
+        "Description": "Office supply reconciliation - Q3"
+      }
+    ],
+    "TotalAmt": 740.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "1032",
+    "DocNumber": "INV-2026-032",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-11-01",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Dillard Family Dental"
+    },
+    "Line": [
+      {
+        "Amount": 312.5,
+        "Description": "Branded supply storefront setup"
+      }
+    ],
+    "TotalAmt": 312.5,
+    "Balance": 312.5,
+    "Status": "Open"
+  }
+]

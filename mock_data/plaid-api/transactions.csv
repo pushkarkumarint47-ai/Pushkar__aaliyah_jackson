@@ -1,0 +1,19 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+txn_0001,acc_sav_001,4384.58,USD,2026-10-03,LOWES HOME IMPROVEMENT - water heater,Lowe's,Home Improvement,false,in store
+txn_0002,acc_chk_001,1125.00,USD,2026-10-01,LITTLE STARS DAYCARE AUTODRAFT,Little Stars Daycare,Childcare,false,other
+txn_0003,acc_chk_001,1680.00,USD,2026-10-01,REGIONS MORTGAGE PMT,Regions Mortgage,Mortgage,false,other
+txn_0004,acc_chk_001,82.47,USD,2026-10-08,KROGER #412 MURFREESBORO,Kroger,Groceries,false,in store
+txn_0005,acc_chk_001,43.10,USD,2026-10-05,COSTCO GAS,Costco,Gas,false,in store
+txn_0006,acc_chk_001,420.00,USD,2026-10-02,TOYOTA FINANCIAL RAV4,Toyota Financial,Auto Payment,false,other
+txn_0007,acc_chk_001,12.99,USD,2026-10-06,NETFLIX,Netflix,Subscription,false,other
+txn_0008,acc_chk_001,200.00,USD,2026-10-05,FIRST BAPTIST MBORO TITHE,First Baptist,Charity,false,other
+txn_0009,acc_chk_001,34.99,USD,2026-10-01,AMAZON MARKETPLACE,Amazon,Shopping,false,online
+txn_0010,acc_chk_001,25.00,USD,2026-10-03,PLANET FITNESS,Planet Fitness,Gym,false,other
+txn_0011,acc_chk_001,87.34,USD,2026-10-08,INSTACART KROGER,Instacart,Groceries,false,online
+txn_0012,acc_chk_001,380.00,USD,2026-10-02,FORD CREDIT F150,Ford Credit,Auto Payment,false,other
+txn_0013,acc_chk_001,130.00,USD,2026-10-04,T-MOBILE,T-Mobile,Phone,false,other
+txn_0014,acc_chk_001,8.00,USD,2026-10-12,CITY OF MURFREESBORO PARKING,City Parking,Travel,false,in store
+txn_0015,acc_chk_001,52.18,USD,2026-10-10,WALGREENS #331,Walgreens,Pharmacy,false,in store
+txn_0016,acc_chk_001,18.97,USD,2026-10-09,AMAZON - BOOKS,Amazon,Shopping,false,online
+txn_0017,acc_sav_001,500.00,USD,2026-10-01,TRANSFER FROM CHECKING,Regions,Transfer,false,other
+txn_0018,acc_chk_001,31.45,USD,2026-10-11,CHICK-FIL-A MURFREESBORO,Chick-fil-A,Dining,false,in store

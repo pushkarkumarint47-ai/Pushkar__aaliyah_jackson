@@ -1,0 +1,4 @@
+contact_id,name,first_name,last_name,email,is_customer,is_supplier,status,account_number
+c-21,Murfreesboro Craft Fair,,,craft@example.org,true,false,ACTIVE,MCF-01
+c-22,Etsy Shop,,,shop@example.com,true,false,ACTIVE,ETSY-9
+c-23,PTA Bake Sale,,,pta@example.org,true,false,ACTIVE,PTA-3

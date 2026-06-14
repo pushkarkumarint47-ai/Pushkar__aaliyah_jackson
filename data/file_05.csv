@@ -1,0 +1,15 @@
+item,qty,unit_price,line_total
+Whole milk gal,2,3.49,6.98
+Large eggs dozen,2,2.99,5.98
+Mac & cheese box,6,1.29,7.74
+Chicken nuggets bag,2,8.49,16.98
+Bananas lb,3,0.59,1.77
+Coffee creamer,1,4.29,4.29
+Paper towels 6pk,1,9.99,9.99
+Goldfish crackers,2,3.19,6.38
+Spaghetti 1lb,3,1.19,3.57
+Marinara jar,2,2.49,4.98
+Ground turkey lb,2,4.99,9.98
+Order subtotal,,,78.64
+Delivery + tip,,,8.70
+Order total,,,87.34
